@@ -1,0 +1,32 @@
+/**
+ * DEFAULT
+ */
+
+header {
+  width: 100%;
+  height: 394px;
+  display: flex;
+
+  background-image: url('images/background.jpg');
+}
+
+.logo {
+   height: 230px;
+   margin: 0 auto;
+   align-self: center;
+}
+
+footer {
+  height: 100px;
+  background-image: url('images/background.jpg');
+
+  .container {
+    height: inherit;
+    display: flex;
+  }
+
+  p {
+    color: white;
+    align-self: center;
+  }
+}
