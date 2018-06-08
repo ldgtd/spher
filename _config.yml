@@ -2,7 +2,7 @@
 title: Spher
 # the subpath baseurl must be to be publish & working in production under spher.ch
 # if you want to preview the website under username.github.io/spher, you have to change baseurl to /spher
-baseurl: ""
+baseurl: "/spher"
 url: "" # the base hostname & protocol for your site
 email: ""
 
